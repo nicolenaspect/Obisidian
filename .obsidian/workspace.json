@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cff4117dc90436f3",
+        "id": "b725590f03e4142f",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf765f20b175afb",
+            "id": "976dc9a537497e6f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,54 +21,6 @@
                   "title": "Translator",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Извикване",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":35},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Извикване",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":290},\"to\":{\"line\":6,\"ch\":290}}}"
-                },
-                {
-                  "title": "Translator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Извикване",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":290},\"to\":{\"line\":6,\"ch\":290}},\"scroll\":0}"
-                },
-                {
-                  "title": "Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":17.073717166215946}"
-                },
-                {
-                  "title": "Извикване",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -310,10 +262,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebf765f20b175afb",
+  "active": "976dc9a537497e6f",
   "lastOpenFiles": [
     "Translator.md",
+    "Excalidraw/Drawing 2023-01-30 22.03.05.excalidraw.md",
     "JavaScript/Objects/Constructors.md",
+    "Excalidraw/Drawing 2023-01-30 22.02.53.excalidraw.md",
     "JavaScript/Objects/Constructors/Извикване.md",
     "2023-01-30.md",
     "Javascript.md",

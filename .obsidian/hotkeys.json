@@ -31,5 +31,13 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
   ]
 }

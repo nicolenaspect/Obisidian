@@ -281,4 +281,6 @@ let duck = new Bird("Donald");
 duck.hasOwnProperty("name");
 ```
 
-Методът ``hasOwnProperty`` е дефиниран в `Object.prototype`, който може да бъде  достъпен от `Bird.prototype`, който след това може да бъде достъпен от `duck`. Това е пример за `prototype` верига. В тази верига, `Bird` е `supertype` за duck, докато `duck`
+Методът ``hasOwnProperty`` е дефиниран в `Object.prototype`, който може да бъде  достъпен от `Bird.prototype`, който след това може да бъде достъпен от `duck`. Това е пример за `prototype` верига. В тази верига, `Bird` е `supertype` за `duck`, докато `duck` 
+
+
