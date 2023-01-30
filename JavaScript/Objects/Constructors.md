@@ -212,4 +212,73 @@ Bird.prototype = {
 
 ### Remember to Set the Constructor Property when Changing the Prototype
 
-Има важен страничен ефект от мануалното 
+Има важен страничен ефект от ръчното поставяне на прототипа в нов обект - изтрива свойството constructor!  Това свойство може да бъде използвано за проверка коя конструктор-функция създава инстанцията, но тъй като свойството е презаписано, дава резултат false:
+
+```js
+duck.constructor === Bird;
+duck.constructor === Object;
+duck instanceof Bird;
+```
+	Тези изрази по ред ще са равни на false, true и true.
+
+За да поправим това, когато прототипът е ръчно добавян към нов обект, помнете да добавите constructor свойството.
+
+```js
+Bird.prototype = {
+  constructor: Bird,
+  numLegs: 2,
+  eat: function() {
+    console.log("nom nom nom");
+  },
+  describe: function() {
+    console.log("My name is " + this.name); 
+  }
+};
+```
+
+
+## Understand Where an Object’s Prototype Comes From
+
+Както хората наследяват гените си от техните родители, обектите наследяват своите прототипи директно от функцията конструктор, който я е създал. Например, тук Bird конструкторът създава duck обекта: 
+
+```js
+function Bird(name) {
+this.name = name;
+}
+let duck = new Bird('Donald')
+```
+
+duck Наследява своят прототип от Bird. Може да покажете тази връзка с методът isPrototypeOf:
+
+```js
+Bird.prototype.isPrototypeOf(duck);
+```
+	Това ще върне true
+
+
+## Understand the Prototype Chain
+
+Всички обекти в JavaScript (с малки изключения) имат прототип. Също, прототипът на обект също е обект.
+
+```js 
+function Bird(name) {
+this.name = name;
+}
+
+typeof Bird.prototype;
+```
+
+Тъй като prototype е обект, той може да има свой собствен prototype! В този случай, прототипът на Bird.prototype е Object.prototype: 
+
+```js
+
+Object.prototype.isPrototypeOf(Bird.prototype);
+
+```
+
+```js
+let duck = new Bird("Donald");
+duck.hasOwnProperty("name");
+```
+
+Методът ``hasOwnProperty`` е дефиниран в `Object.prototype`, който може да бъде  достъпен от `Bird.prototype`, който след това може да бъде достъпен от `duck`. Това е пример за `prototype` верига. В тази верига, `Bird` е `supertype` за duck, докато `duck`
