@@ -111,4 +111,31 @@ canary instanceof Bird;
 
 ## Own Properties 
 
-В следващият пример, Bird конструкторът дефинира 
+В следващият пример, Bird конструкторът дефинира две свойства - name и numLegs: 
+
+```js
+function Bird(name) {
+  this.name = name;
+  this.numLegs = 2;
+}
+
+let duck = new Bird("Donald");
+let canary = new Bird("Tweety");
+```
+
+name и numLegs се наричат own properties, защото се дефинират директно върху инстанцията на обекта. Това значи че duck и canary имат свои собствени отделни копия на тези свойства. Всяка инстанция на Bird ще ги има. Следващият код добавя всички собствени свойства на duck в масива ownProps: 
+
+```js
+let ownProps = [];
+
+for (let property in duck) {
+  if(duck.hasOwnProperty(property)) {
+    ownProps.push(property);
+  }
+}
+
+console.log(ownProps);
+```
+
+Конзолата ще отпечата стойността на name и numLegs.
+
