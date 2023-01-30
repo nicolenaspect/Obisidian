@@ -1,0 +1,35 @@
+{
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}
