@@ -283,4 +283,27 @@ duck.hasOwnProperty("name");
 
 Методът ``hasOwnProperty`` е дефиниран в `Object.prototype`, който може да бъде  достъпен от `Bird.prototype`, който след това може да бъде достъпен от `duck`. Това е пример за `prototype` верига. В тази верига, `Bird` е `supertype` за `duck`, докато `duck` e `subtype`. `Object` е `supertype` и за двете - `Bird` и `duck`. `Object` e `supertype` за всички обекти в JavaScript, така че всеки обект може да използва `hasOwnProperty` метод.
 
-https://app.code2flow.com/SO0OpU.png
+## DRY - Don't Repeat Yourself
+
+Има принцип в програмирането наречен ``Don't Repeat Yourself``. Причината повтарящият се код да е проблем е защото всяка поправка изисква поправка на няколко места. Това значи повече работа за програмиста и повече място за грешки. 
+
+Забележете в следния пример, методът ``describe`` е споделен от `Bird` и `Dog`:
+
+```js
+Bird.prototype = {
+  constructor: Bird,
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+
+Dog.prototype = {
+  constructor: Dog,
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+```
+
+
+Методът `Descri`

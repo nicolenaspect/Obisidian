@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b725590f03e4142f",
+        "id": "1bfd6ba7fc709d87",
         "type": "tabs",
         "children": [
           {
-            "id": "976dc9a537497e6f",
+            "id": "1ed49ebf658dbb50",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,10 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Translator",
+                  "title": "Constructors",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":268,\"ch\":0},\"to\":{\"line\":268,\"ch\":0}},\"scroll\":118.6666259765625}"
                 }
               ]
             },
@@ -48,25 +48,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "757c74b4fb42587b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "83a247297d45001c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -91,7 +72,7 @@
             }
           },
           {
-            "id": "3ff9a143ced9ce11",
+            "id": "8f872c8456109b77",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -103,15 +84,26 @@
               ]
             },
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15da92c398d3a07a",
+            "type": "leaf",
+            "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e6dcb0954fc4b331",
@@ -280,15 +272,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "976dc9a537497e6f",
+  "active": "1ed49ebf658dbb50",
   "lastOpenFiles": [
+    "JavaScript/Objects/Untitled Diagram.svg",
+    "JavaScript/Objects/Constructors.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2023-01-30 22.41.32.excalidraw.md",
     "Translator.md",
     "Excalidraw/Drawing 2023-01-30 22.03.05.excalidraw.md",
-    "JavaScript/Objects/Constructors.md",
-    "Excalidraw/Drawing 2023-01-30 22.02.53.excalidraw.md",
-    "JavaScript/Objects/Constructors/Извикване.md",
-    "2023-01-30.md",
-    "Javascript.md",
-    "Untitled 1.md"
+    "Excalidraw/Drawing 2023-01-30 22.02.53.excalidraw.md"
   ]
 }
