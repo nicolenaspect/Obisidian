@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6993305258637e66",
+            "id": "ebf765f20b175afb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,34 +18,28 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Constructors",
+                  "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
+                  "title": "Извикване",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Constructors",
+                  "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objects/Constructors.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":314},\"to\":{\"line\":76,\"ch\":314}},\"scroll\":53.93541638056437}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":35},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Translator",
+                  "title": "Извикване",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":2},\"to\":{\"line\":10,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "Constructors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objects/Constructors.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":19},\"to\":{\"line\":62,\"ch\":19}},\"scroll\":44.97708304723104}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":290},\"to\":{\"line\":6,\"ch\":290}}}"
                 },
                 {
                   "title": "Translator",
@@ -54,21 +48,21 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Constructors",
+                  "title": "Извикване",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":68},\"to\":{\"line\":1,\"ch\":68}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":290},\"to\":{\"line\":6,\"ch\":290}},\"scroll\":0}"
                 },
                 {
-                  "title": "Translator",
+                  "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":17.073717166215946}"
                 },
                 {
-                  "title": "Constructors",
+                  "title": "Извикване",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Извикване.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -76,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objects/Constructors.md",
+                "file": "JavaScript/Objects/Constructors/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e6dcb0954fc4b331",
@@ -185,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objects/Constructors.md",
+                "file": "JavaScript/Objects/Constructors/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objects/Constructors.md",
+                "file": "JavaScript/Objects/Constructors/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objects/Constructors.md"
+                "file": "JavaScript/Objects/Constructors/Basics.md"
               }
             }
           },
@@ -311,11 +304,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6993305258637e66",
+  "active": "ebf765f20b175afb",
   "lastOpenFiles": [
-    "2023-01-30.md",
-    "Objects/Constructors.md",
+    "JavaScript/Objects/Constructors/Извикване.md",
+    "JavaScript/Objects/Constructors/Basics.md",
     "Translator.md",
+    "2023-01-30.md",
     "Javascript.md",
     "Untitled 1.md"
   ]
