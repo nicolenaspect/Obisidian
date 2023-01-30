@@ -181,3 +181,35 @@ function joinBirdFraternity(candidate) {
 
 ## Change the Prototype to a new Object
 
+По-продуктивен начин е задаване на прототипа в нов обект, който вече съдържа свойствата. По този начин свойствата се добавят всички наведнъж: 
+
+```js
+Bird.prototype = {
+  numLegs: 2, 
+  eat: function() {
+    console.log("nom nom nom");
+  },
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+```
+
+==ES6  съкратен вариант: ==
+
+```js
+Bird.prototype = {
+	numLegs: 2,
+	eat() {
+	console.log('nom nom nom')
+	},
+	describe() {
+	console.log('My name is ' + this.name);
+	}
+}
+}
+```
+
+### Remember to Set the Constructor Property when Changing the Prototype
+
+Има важен страничен ефект от мануалното 
