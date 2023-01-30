@@ -152,4 +152,31 @@ Bird.prototype.numLegs = 2;
 
 След като всички инстанции автоматично имат свойствата на prototype, мислете за този оператор като за "рецепта" за създаване на обекти. Забележете че прототипът за duck и canary са част от конструкторът. Почти всеки обект в JS има свойство prototype, което е част от създалия го конструктор. 
 
-##  Итерация върху всички свойства
+## Constructor Property 
+
+```js
+let duck = new Bird();
+let beagle = new Dog();
+
+console.log(duck.constructor === Bird); 
+console.log(beagle.constructor === Dog);
+```
+
+Двата лога ще върнат true.
+Свойството constructor е референтна на constructor функцията, която създава инстанцията. Предимството на свойството е че е възможно да провери какъв тип обект е. 
+	Example: 
+	
+```js
+function joinBirdFraternity(candidate) {
+  if (candidate.constructor === Bird) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+
+==След като constructor свойството може да бъде nрезаписано, генерално е по-добре да се използва instanceof метода за проверка на типа обект.
+
+
+
