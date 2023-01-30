@@ -306,4 +306,26 @@ Dog.prototype = {
 ```
 
 
-Методът `Descri`
+Методът `describe` е повторен на две места. Кодът може да бъде променен от следният DRY принцип създавайки `supertype` (или `parent`) наречен `Animal`
+
+
+```js
+function Animal() { };
+
+Animal.prototype = {
+  constructor: Animal, 
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+
+
+Bird.prototype = {
+  constructor: Bird
+};
+
+Dog.prototype = {
+  constructor: Dog
+};
+
+```
