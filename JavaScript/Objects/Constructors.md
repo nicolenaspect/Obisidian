@@ -336,4 +336,16 @@ Dog.prototype = {
 let animal = Object.create(Animal.prototype);
 ```
 
-`Object.create(obj)` създава нов обект,  задава `obj` като новия
+`Object.create(obj)` създава нов обект,  задава `obj` като новият прототип на обекта.  Чрез задаване на прототип на `animal` да е `prototype of Animal`, вие ефективно давате `animal` инстанцията същата "рецепта" като всяка друга инстанция на `Animal`.
+
+```js
+animal.eat();
+animal instanceof Animal;
+```
+
+Методът `instanceof` ще върне `true`. 
+
+
+## Mixin
+
+При случаи, в които имаме 
