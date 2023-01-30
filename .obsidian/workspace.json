@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Translator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":27},\"to\":{\"line\":10,\"ch\":27}},\"scroll\":0}"
+                },
+                {
                   "title": "Constructors",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
@@ -274,14 +280,14 @@
   },
   "active": "1ed49ebf658dbb50",
   "lastOpenFiles": [
-    "JavaScript/Objects/Untitled Diagram.svg",
+    "Translator.md",
     "JavaScript/Objects/Constructors.md",
+    "JavaScript/Objects/Untitled Diagram.svg",
     "Untitled.md",
     "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-01-30 22.41.32.excalidraw.md",
-    "Translator.md",
     "Excalidraw/Drawing 2023-01-30 22.03.05.excalidraw.md",
     "Excalidraw/Drawing 2023-01-30 22.02.53.excalidraw.md"
   ]

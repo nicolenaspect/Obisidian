@@ -329,3 +329,11 @@ Dog.prototype = {
 };
 
 ```
+
+## inheritance 
+
+```js
+let animal = Object.create(Animal.prototype);
+```
+
+`Object.create(obj)` създава нов обект,  задава `obj` като новия
