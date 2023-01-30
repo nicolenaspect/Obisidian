@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Translator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Basics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
@@ -306,9 +312,9 @@
   },
   "active": "ebf765f20b175afb",
   "lastOpenFiles": [
-    "JavaScript/Objects/Constructors/Извикване.md",
-    "JavaScript/Objects/Constructors/Basics.md",
     "Translator.md",
+    "JavaScript/Objects/Constructors/Basics.md",
+    "JavaScript/Objects/Constructors/Извикване.md",
     "2023-01-30.md",
     "Javascript.md",
     "Untitled 1.md"
