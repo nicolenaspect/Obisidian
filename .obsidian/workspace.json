@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "JavaScript/Objects/Constructors.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +276,11 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c8bf9dd7b8e26377",
+  "active": "976dc9a537497e6f",
   "lastOpenFiles": [
     "Translator.md",
     "Excalidraw/Drawing 2023-01-30 22.03.05.excalidraw.md",
