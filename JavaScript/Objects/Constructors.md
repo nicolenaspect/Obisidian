@@ -179,4 +179,5 @@ function joinBirdFraternity(candidate) {
 ==След като constructor свойството може да бъде nрезаписано, генерално е по-добре да се използва instanceof метода за проверка на типа обект.
 
 
+## Change the Prototype to a new Object
 

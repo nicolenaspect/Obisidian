@@ -26,7 +26,7 @@
                 {
                   "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -38,7 +38,7 @@
                 {
                   "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":35},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -62,7 +62,7 @@
                 {
                   "title": "Basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":17.073717166215946}"
                 },
                 {
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Objects/Constructors/Basics.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Objects/Constructors/Basics.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Objects/Constructors/Basics.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Objects/Constructors/Basics.md"
+                "file": "JavaScript/Objects/Constructors.md"
               }
             }
           },
@@ -313,7 +313,7 @@
   "active": "ebf765f20b175afb",
   "lastOpenFiles": [
     "Translator.md",
-    "JavaScript/Objects/Constructors/Basics.md",
+    "JavaScript/Objects/Constructors.md",
     "JavaScript/Objects/Constructors/Извикване.md",
     "2023-01-30.md",
     "Javascript.md",
