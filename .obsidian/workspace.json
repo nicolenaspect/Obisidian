@@ -16,13 +16,61 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The internet, explained",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":126},\"to\":{\"line\":88,\"ch\":126}},\"scroll\":78.87144653714546}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pasted image 20230131215927",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230131215927.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Translator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Translator.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":43},\"to\":{\"line\":15,\"ch\":43}}}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0.18818499020806254}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The internet, explained",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":635},\"to\":{\"line\":94,\"ch\":635}},\"scroll\":73.32986523789728}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet/The internet, explained.md",
+                "file": "Internet/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/The internet, explained.md",
+                "file": "Internet/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/The internet, explained.md",
+                "file": "Internet/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet/The internet, explained.md"
+                "file": "Internet/HTTP.md"
               }
             }
           },
@@ -275,17 +323,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bf077b9969d1d5ed",
+  "active": "c81260ebf65a4afc",
   "lastOpenFiles": [
+    "Internet/The internet, explained.md",
     "Internet/HTTP.md",
+    "Internet/Images And Diagrams/Pasted image 20230131215927.png",
+    "JavaScript/Translator.md",
+    "JavaScript/Терминология.md",
     "Untitled 1.canvas",
     "Untitled Diagram.svg",
     "Untitled 2.canvas",
     "Untitled.canvas",
-    "Computer Science.md",
-    "JavaScript/Functional Programming/Reduce Method.md",
-    "JavaScript/Functional Programming/concat.md",
-    "JavaScript/Functional Programming/Принципи.md",
-    "JavaScript/Functional Programming/Map Method.md"
+    "Computer Science.md"
   ]
 }
