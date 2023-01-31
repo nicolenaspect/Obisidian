@@ -107,7 +107,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
                 },
                 {
@@ -125,7 +125,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
                 },
                 {
@@ -137,7 +137,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}},\"scroll\":0}"
                 },
                 {
@@ -149,7 +149,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
                 },
                 {
@@ -161,7 +161,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
                 },
                 {
@@ -173,7 +173,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}}}"
                 }
               ]
@@ -200,7 +200,7 @@
                 {
                   "title": "Терминология",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
                 },
                 {
@@ -323,9 +323,153 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd6e256dd4287e14",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Принципи",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
+                },
+                {
+                  "title": "concat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/concat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Map Method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Map Method.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":45}}}"
+                },
+                {
+                  "title": "Slice vs Splice",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Slice vs Splice.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":21},\"to\":{\"line\":5,\"ch\":21}}}"
+                },
+                {
+                  "title": "concat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/concat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Map Method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Map Method.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":45}}}"
+                },
+                {
+                  "title": "Принципи",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
+                },
+                {
+                  "title": "Slice vs Splice",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Slice vs Splice.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Map Method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Map Method.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":21},\"to\":{\"line\":5,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "Basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":3},\"to\":{\"line\":84,\"ch\":3}},\"scroll\":68.6566}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":21},\"to\":{\"line\":5,\"ch\":21}}}"
+                },
+                {
+                  "title": "Принципи",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
+                },
+                {
+                  "title": "Basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":3},\"to\":{\"line\":84,\"ch\":3}},\"scroll\":68.6566}"
+                },
+                {
+                  "title": "Translator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}}}"
+                },
+                {
+                  "title": "concat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/concat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/concat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c2e79833a27267c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Reduce Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -428,7 +572,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Slice vs Splice.md",
+                "file": "Functional Programming/Reduce Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -454,7 +598,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Slice vs Splice.md",
+                "file": "Functional Programming/Reduce Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -495,7 +639,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Slice vs Splice.md"
+                "file": "Functional Programming/Reduce Method.md"
               }
             }
           },
@@ -572,17 +716,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8f872c8456109b77",
+  "active": "7c2e79833a27267c",
   "lastOpenFiles": [
-    "Translator.md",
+    "Functional Programming/concat.md",
     "Functional Programming/Принципи.md",
-    "Functional Programming/Slice vs Splice.md",
-    "Functional Programming/Splice Method.md",
     "Functional Programming/Map Method.md",
+    "Functional Programming/Slice vs Splice.md",
+    "Терминология.md",
     "Functional Programming/Basics.md",
-    "Functional Programming/Терминология.md",
+    "Translator.md",
+    "Functional Programming/Splice Method.md",
     "JavaScript/Objects/Constructors.md",
-    "JavaScript/Objects/Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md"
+    "JavaScript/Objects/Untitled Diagram.svg"
   ]
 }
