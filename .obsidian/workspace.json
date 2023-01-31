@@ -254,16 +254,78 @@
               ]
             },
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "42eacc8771073f58",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Slice method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Slice vs Splice.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":1.5307293107024336}"
+                },
+                {
+                  "title": "Splice Method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Splice Method.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Programming/Slice method.md",
+                "file": "Functional Programming/Принципи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a51fe615b075bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Translator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":16},\"to\":{\"line\":12,\"ch\":16}}}"
+                },
+                {
+                  "title": "Принципи",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Slice vs Splice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -366,7 +428,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Slice method.md",
+                "file": "Functional Programming/Slice vs Splice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +454,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Slice method.md",
+                "file": "Functional Programming/Slice vs Splice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -433,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Slice method.md"
+                "file": "Functional Programming/Slice vs Splice.md"
               }
             }
           },
@@ -510,17 +572,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e0dfb00620dfeb41",
+  "active": "8f872c8456109b77",
   "lastOpenFiles": [
+    "Translator.md",
+    "Functional Programming/Принципи.md",
+    "Functional Programming/Slice vs Splice.md",
+    "Functional Programming/Splice Method.md",
     "Functional Programming/Map Method.md",
     "Functional Programming/Basics.md",
     "Functional Programming/Терминология.md",
-    "Functional Programming/Принципи.md",
-    "Translator.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Objects/Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
-    "Untitled.canvas",
-    "Untitled Diagram.svg"
+    "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md"
   ]
 }
