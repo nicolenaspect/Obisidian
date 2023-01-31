@@ -15,5 +15,6 @@
   "heatmap-calendar",
   "dataview",
   "table-editor-obsidian",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "url-into-selection"
 ]

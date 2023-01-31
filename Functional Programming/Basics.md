@@ -28,83 +28,10 @@ JavaScript предлага много предварително дефинир
 
 Редакторът показва реализация на тази функционалност с функции за `tabOpen()`, `tabClose()` и `join()`. Масивът `tabs` е част от обекта `Window`, който съхранява имената на отворените страници.
 
-```js
-const Window = function(tabs) {
+[PasteBin Code](https://pastebin.com/fkavWyrU)
 
-  this.tabs = tabs; // We keep a record of the array inside the object
-};
+Проблемът беше в повикването на splice в `tabclose()` функцията. `splice` променя оригиналния масив, от който е извикана,  така че второто извикване на функцията използва модифициран масив и дава неочаквани резултати.
 
-// When you join two windows into one window
+Това е малък пример за много по-голям модел - извиквате функция върху променлива, масив или обект и функцията променя променливата или нещо в обекта.
 
-Window.prototype.join = function(otherWindow) {
-
-  this.tabs = this.tabs.concat(otherWindow.tabs);
-
-  return this;
-
-};
-// When you open a new tab at the end
-
-Window.prototype.tabOpen = function(tab) {
-
-  this.tabs.push('new tab'); // Let's open a new tab for now
-
-  return this;
-
-};
-
-  
-
-// When you close a tab
-
-Window.prototype.tabClose = function(index) {
-
-  
-
-  // Only change code below this line
-
-  
-
-  const tabsBeforeIndex = this.tabs.splice(0, index); // Get the tabs before the tab
-
-  const tabsAfterIndex = this.tabs.splice(index + 1); // Get the tabs after the tab
-
-  
-
-  this.tabs = tabsBeforeIndex.concat(tabsAfterIndex); // Join them together
-
-  
-
-  // Only change code above this line
-
-  
-
-  return this;
-
- };
-
-  
-
-// Let's create three browser windows
-
-const workWindow = new Window(['GMail', 'Inbox', 'Work mail', 'Docs', 'freeCodeCamp']); // Your mailbox, drive, and other work sites
-
-const socialWindow = new Window(['FB', 'Gitter', 'Reddit', 'Twitter', 'Medium']); // Social sites
-
-const videoWindow = new Window(['Netflix', 'YouTube', 'Vimeo', 'Vine']); // Entertainment sites
-
-  
-
-// Now perform the tab opening, closing, and other operations
-
-const finalTabs = socialWindow
-
-  .tabOpen() // Open a new tab for cat memes
-
-  .join(videoWindow.tabClose(2)) // Close third tab in video window, and join
-
-  .join(workWindow.tabClose(1).tabOpen());
-
-console.log(finalTabs.tabs);
-
-```
+Един от основните принципи на функционалното програмиране е да не променяме нещата.  Промените водят до грешки. По-лесно е да предотвратите грешки, като знаете, че вашите функции не променят нищо, включително аргументи на функцията или някоя глобална променлива.
