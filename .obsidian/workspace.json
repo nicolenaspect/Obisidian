@@ -240,9 +240,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0dfb00620dfeb41",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Slice method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -345,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Map Method.md",
+                "file": "Functional Programming/Slice method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Map Method.md",
+                "file": "Functional Programming/Slice method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -412,7 +433,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Map Method.md"
+                "file": "Functional Programming/Slice method.md"
               }
             }
           },
@@ -489,8 +510,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "467c153281498eca",
+  "active": "e0dfb00620dfeb41",
   "lastOpenFiles": [
+    "Functional Programming/Map Method.md",
     "Functional Programming/Basics.md",
     "Functional Programming/Терминология.md",
     "Functional Programming/Принципи.md",
@@ -499,7 +521,6 @@
     "JavaScript/Objects/Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
     "Untitled.canvas",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-01-30 22.41.32.excalidraw.md"
+    "Untitled Diagram.svg"
   ]
 }
