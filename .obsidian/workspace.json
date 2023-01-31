@@ -196,20 +196,53 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":74},\"to\":{\"line\":4,\"ch\":74}}}"
+                },
+                {
+                  "title": "Принципи",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Programming/Принципи.md",
+                "file": "Functional Programming/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467c153281498eca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Map Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -312,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Принципи.md",
+                "file": "Functional Programming/Map Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Принципи.md",
+                "file": "Functional Programming/Map Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Принципи.md"
+                "file": "Functional Programming/Map Method.md"
               }
             }
           },
@@ -456,17 +489,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fd2977708ff92b2a",
+  "active": "467c153281498eca",
   "lastOpenFiles": [
     "Functional Programming/Basics.md",
     "Functional Programming/Терминология.md",
+    "Functional Programming/Принципи.md",
     "Translator.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Objects/Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-01-30 22.41.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-30 22.03.05.excalidraw.md"
+    "Excalidraw/Drawing 2023-01-30 22.41.32.excalidraw.md"
   ]
 }
