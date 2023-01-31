@@ -10,3 +10,4 @@
     
 - inheritance - наследяване
 - IIFE  - function that executes right away; 
+- Callbacks - Обратни извиквания
