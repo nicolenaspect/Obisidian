@@ -186,9 +186,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd2977708ff92b2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Принципи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Basics.md",
+                "file": "Functional Programming/Принципи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Basics.md",
+                "file": "Functional Programming/Принципи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Basics.md"
+                "file": "Functional Programming/Принципи.md"
               }
             }
           },
@@ -435,11 +456,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "6350313c3125e65c",
+  "active": "fd2977708ff92b2a",
   "lastOpenFiles": [
+    "Functional Programming/Basics.md",
     "Functional Programming/Терминология.md",
     "Translator.md",
-    "Functional Programming/Basics.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Objects/Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",
