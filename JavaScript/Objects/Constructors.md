@@ -348,4 +348,59 @@ animal instanceof Animal;
 
 ## Mixin
 
-При случаи, в които имаме 
+При случаи, в които имаме несвързани обекти като птица и самолет, ползваме Mixin.
+
+==Mixin позволява други обекти да използват колекция от функции==
+
+```js
+let flyMixin = function(obj) {
+  obj.fly = function() {
+    console.log("Flying, wooosh!");
+  }
+};
+```
+	Mixin взема всеки обект и му дава `fly` method.
+
+```js
+let bird = {
+  name: "Donald",
+  numLegs: 2
+};
+
+let plane = {
+  model: "777",
+  numPassengers: 524
+};
+
+flyMixin(bird);
+flyMixin(plane);
+```
+
+Тук `bird` и `plane` преминават през flyMixin, който след това задава `fly` функция във всеки обект. Сега те могат да летят.
+
+```js
+bird.fly();
+plane.fly();
+```
+
+
+## Closure
+
+Дотук свойствата бяха public. Това значи, че те могат да бъдат променяни във всяка стойност. Това би представлявало проблем при пароли и банкови сметки. 
+
+Най-простият начин да направим public свойството private е като създадем променлива в конструктора. Това сменя обхвата на тази променлива да бъде в конструктора вместо глобално. 
+
+```js
+function Bird() {
+  let hatchedEgg = 10;
+
+  this.getHatchedEggCount = function() { 
+    return hatchedEgg;
+  };
+}
+let ducky = new Bird();
+ducky.getHatchedEggCount();
+```
+
+тук `getHatchedEggCount` е привилегирован метод, защото има достъп до личната променлива `hatchedEgg`. Това е възможно защото тя е декларирана в същия контекст както `getHatchedEggCount`. В JavaScript, функцията винаги има достъп до контекста в който е създадена. Това се нарича `closure`.
+

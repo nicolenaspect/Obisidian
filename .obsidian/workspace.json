@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Constructors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":406,\"ch\":0},\"to\":{\"line\":406,\"ch\":0}},\"scroll\":390.9685049244002}"
+                },
+                {
                   "title": "Translator",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Translator.md\",\"mode\":\"source\",\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Translator.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Translator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Translator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md"
+                "file": "Translator.md"
               }
             }
           },
@@ -274,14 +280,13 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1ed49ebf658dbb50",
   "lastOpenFiles": [
-    "Translator.md",
     "JavaScript/Objects/Constructors.md",
+    "Translator.md",
     "JavaScript/Objects/Untitled Diagram.svg",
     "Untitled.md",
     "Excalidraw/Drawing 2023-01-30 22.41.43.excalidraw.md",

@@ -9,3 +9,4 @@
 -   JSON - Javascript Object Notation = стандарт за прехвърляне на текстови данни, начин за прехвърляне на данни под формата на текст;  
     
 - inheritance - наследяване
+- IIFE  - function that executes right away; 
