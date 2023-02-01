@@ -177,9 +177,51 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "974b9c7ce90f453b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Functional Programming/every vs some.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a047a5412c576e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Currying and Partial Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Functional Programming/Split and Join.md",
+                "file": "Currying and Partial Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Functional Programming/Split and Join.md",
+                "file": "Currying and Partial Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Functional Programming/Split and Join.md"
+                "file": "Currying and Partial Application.md"
               }
             }
           },
@@ -426,17 +468,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "afad522d13540c7a",
+  "active": "0a047a5412c576e9",
   "lastOpenFiles": [
+    "JavaScript/Functional Programming/every vs some.md",
+    "JavaScript/Functional Programming/Split and Join.md",
     "JavaScript/Functional Programming/Принципи.md",
     "JavaScript/Functional Programming/Map Method.md",
     "JavaScript/Functional Programming/Basics.md",
     "Internet/The internet, explained.md",
     "Internet/Browsers In Depth.md",
     "JavaScript/Translator.md",
-    "JavaScript/Functional Programming/Split and Join.md",
     "Internet/Images And Diagrams/http-response-headers.webp",
-    "Internet/Images And Diagrams/http-request-headers.webp",
-    "Internet/HTTP.md"
+    "Internet/Images And Diagrams/http-request-headers.webp"
   ]
 }
