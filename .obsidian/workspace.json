@@ -210,6 +210,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":57.92556893300648}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":74},\"to\":{\"line\":37,\"ch\":74}},\"scroll\":31.1349}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":0}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":6},\"to\":{\"line\":37,\"ch\":6}},\"scroll\":31.1389}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":0}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":63},\"to\":{\"line\":38,\"ch\":63}},\"scroll\":31.13892697284471}"
+                },
+                {
                   "title": "Constructors",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
@@ -264,6 +300,7 @@
               "state": {
                 "file": "Internet/Browsers In Depth.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -357,32 +394,6 @@
         "id": "92ff108aa2a0d540",
         "type": "tabs",
         "children": [
-          {
-            "id": "9b17c8a600ef5607",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Internet/Browsers In Depth.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "d61375cc2ea354b2",
             "type": "leaf",
@@ -494,8 +505,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -518,6 +528,8 @@
   },
   "active": "0a047a5412c576e9",
   "lastOpenFiles": [
+    "Internet/HTTP.md",
+    "Internet/Browsers In Depth.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
     "JavaScript/Functional Programming/concat.md",
@@ -525,8 +537,6 @@
     "JavaScript/Functional Programming/Basics.md",
     "JavaScript/Functional Programming/Reduce Method.md",
     "JavaScript/Functional Programming/Slice vs Splice.md",
-    "JavaScript/Functional Programming/every vs some.md",
-    "JavaScript/Functional Programming/Принципи.md",
-    "JavaScript/Functional Programming/Map Method.md"
+    "JavaScript/Functional Programming/every vs some.md"
   ]
 }
