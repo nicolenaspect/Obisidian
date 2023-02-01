@@ -208,13 +208,55 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Split and Join",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Split and Join.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":75},\"to\":{\"line\":13,\"ch\":75}},\"scroll\":9.428817741403677}"
+                },
+                {
+                  "title": "concat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/concat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":72},\"to\":{\"line\":19,\"ch\":72}},\"scroll\":3.7455775095324677}"
+                },
+                {
+                  "title": "Currying and Partial Application",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Currying and Partial Application.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":3},\"to\":{\"line\":84,\"ch\":3}},\"scroll\":66.8438}"
+                },
+                {
+                  "title": "Reduce Method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Reduce Method.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slice vs Splice",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Slice vs Splice.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Currying and Partial Application",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Currying and Partial Application.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":10.608682788747926}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Currying and Partial Application.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -324,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Currying and Partial Application.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Currying and Partial Application.md",
+                "file": "JavaScript/Objects/Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -391,7 +433,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Currying and Partial Application.md"
+                "file": "JavaScript/Objects/Constructors.md"
               }
             }
           },
@@ -468,17 +510,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0a047a5412c576e9",
+  "active": "bf077b9969d1d5ed",
   "lastOpenFiles": [
-    "JavaScript/Functional Programming/every vs some.md",
     "JavaScript/Functional Programming/Split and Join.md",
+    "JavaScript/Functional Programming/concat.md",
+    "JavaScript/Functional Programming/Currying and Partial Application.md",
+    "JavaScript/Functional Programming/Basics.md",
+    "JavaScript/Functional Programming/Reduce Method.md",
+    "JavaScript/Functional Programming/Slice vs Splice.md",
+    "JavaScript/Functional Programming/every vs some.md",
     "JavaScript/Functional Programming/Принципи.md",
     "JavaScript/Functional Programming/Map Method.md",
-    "JavaScript/Functional Programming/Basics.md",
-    "Internet/The internet, explained.md",
-    "Internet/Browsers In Depth.md",
-    "JavaScript/Translator.md",
-    "Internet/Images And Diagrams/http-response-headers.webp",
-    "Internet/Images And Diagrams/http-request-headers.webp"
+    "Internet/The internet, explained.md"
   ]
 }
