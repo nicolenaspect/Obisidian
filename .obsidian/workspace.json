@@ -210,6 +210,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Constructors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":406,\"ch\":0},\"to\":{\"line\":406,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Split and Join",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Split and Join.md\",\"mode\":\"source\",\"source\":false}}",
@@ -256,7 +262,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Internet/Browsers In Depth.md",
                 "mode": "source",
                 "source": false
               }
@@ -366,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Internet/Browsers In Depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md",
+                "file": "Internet/Browsers In Depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -433,7 +439,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Objects/Constructors.md"
+                "file": "Internet/Browsers In Depth.md"
               }
             }
           },
@@ -510,8 +516,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bf077b9969d1d5ed",
+  "active": "0a047a5412c576e9",
   "lastOpenFiles": [
+    "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
     "JavaScript/Functional Programming/concat.md",
     "JavaScript/Functional Programming/Currying and Partial Application.md",
@@ -520,7 +527,6 @@
     "JavaScript/Functional Programming/Slice vs Splice.md",
     "JavaScript/Functional Programming/every vs some.md",
     "JavaScript/Functional Programming/Принципи.md",
-    "JavaScript/Functional Programming/Map Method.md",
-    "Internet/The internet, explained.md"
+    "JavaScript/Functional Programming/Map Method.md"
   ]
 }
