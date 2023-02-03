@@ -212,6 +212,24 @@
                 {
                   "title": "HTTP",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The internet, explained",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":30},\"to\":{\"line\":81,\"ch\":30}},\"scroll\":74.36406008402507}"
+                },
+                {
+                  "title": "HTTP",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":57.92556893300648}"
                 },
@@ -539,12 +557,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "0a047a5412c576e9",
   "lastOpenFiles": [
     "Internet/HTTP.md",
+    "Internet/The internet, explained.md",
     "Internet/Browsers In Depth.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
@@ -552,7 +572,6 @@
     "JavaScript/Functional Programming/Currying and Partial Application.md",
     "JavaScript/Functional Programming/Basics.md",
     "JavaScript/Functional Programming/Reduce Method.md",
-    "JavaScript/Functional Programming/Slice vs Splice.md",
-    "JavaScript/Functional Programming/every vs some.md"
+    "JavaScript/Functional Programming/Slice vs Splice.md"
   ]
 }
