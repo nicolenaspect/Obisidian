@@ -189,6 +189,66 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Pasted image 20230203150213",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":28},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":71.31043489123778}"
+                },
+                {
+                  "title": "Pasted image 20230203150213",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150142",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150213",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150142",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150213",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150142",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230203150213",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Browsers In Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":28},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":69.72099563866044}"
+                },
+                {
                   "title": "HTTP",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -293,13 +353,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet/Browsers In Depth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -406,7 +461,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/Browsers In Depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,9 +500,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Internet/Browsers In Depth.md"
-              }
+              "state": {}
             }
           },
           {
@@ -505,10 +557,18 @@
           {
             "id": "3ddc8e63bd90141b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/Browsers In Depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -540,17 +600,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0a047a5412c576e9",
+  "active": "bf077b9969d1d5ed",
   "lastOpenFiles": [
+    "Internet/Images And Diagrams/Pasted image 20230203150213.png",
+    "Internet/Browsers In Depth.md",
+    "Pasted image 20230203150142.png",
     "Internet/HTTP.md",
     "Internet/The internet, explained.md",
-    "Internet/Browsers In Depth.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
     "JavaScript/Functional Programming/concat.md",
     "JavaScript/Functional Programming/Currying and Partial Application.md",
-    "JavaScript/Functional Programming/Basics.md",
-    "JavaScript/Functional Programming/Reduce Method.md",
-    "JavaScript/Functional Programming/Slice vs Splice.md"
+    "JavaScript/Functional Programming/Basics.md"
   ]
 }
