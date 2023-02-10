@@ -461,6 +461,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Internet/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -500,7 +501,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Internet/HTTP.md"
+              }
             }
           },
           {
@@ -569,6 +572,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Internet/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -596,8 +600,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "bf077b9969d1d5ed",
