@@ -356,9 +356,26 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "762011e5b86e2d9d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -461,7 +478,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -501,9 +517,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Internet/HTTP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -572,7 +586,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -600,15 +613,16 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "bf077b9969d1d5ed",
   "lastOpenFiles": [
+    "Internet/HTTP.md",
     "Internet/Images And Diagrams/Pasted image 20230203150213.png",
     "Internet/Browsers In Depth.md",
     "Pasted image 20230203150142.png",
-    "Internet/HTTP.md",
     "Internet/The internet, explained.md",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
