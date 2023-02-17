@@ -370,12 +370,37 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Internet/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba4a2ba798d6f629",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet/DNS and Domain Name.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -478,6 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Internet/DNS and Domain Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -517,7 +543,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Internet/DNS and Domain Name.md"
+              }
             }
           },
           {
@@ -586,6 +614,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Internet/DNS and Domain Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -613,13 +642,13 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf077b9969d1d5ed",
+  "active": "ba4a2ba798d6f629",
   "lastOpenFiles": [
     "Internet/HTTP.md",
+    "Internet/DNS and Domain Name.md",
     "Internet/Images And Diagrams/Pasted image 20230203150213.png",
     "Internet/Browsers In Depth.md",
     "Pasted image 20230203150142.png",
@@ -627,7 +656,6 @@
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Split and Join.md",
     "JavaScript/Functional Programming/concat.md",
-    "JavaScript/Functional Programming/Currying and Partial Application.md",
-    "JavaScript/Functional Programming/Basics.md"
+    "JavaScript/Functional Programming/Currying and Partial Application.md"
   ]
 }
