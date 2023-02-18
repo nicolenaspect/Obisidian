@@ -539,6 +539,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":57},\"to\":{\"line\":2,\"ch\":57}}}"
+                },
+                {
+                  "title": "SVG",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":157},\"to\":{\"line\":16,\"ch\":157}},\"scroll\":5.552083094914754}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":57},\"to\":{\"line\":2,\"ch\":57}}}"
+                },
+                {
                   "title": "SVG",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
@@ -555,7 +573,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced HTML & CSS/Терминология.md",
+                "file": "Advanced HTML & CSS/SVG.md",
                 "mode": "source",
                 "source": false
               }
@@ -665,7 +683,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Терминология.md",
+                "file": "Advanced HTML & CSS/SVG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -706,7 +724,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Терминология.md"
+                "file": "Advanced HTML & CSS/SVG.md"
               }
             }
           },
@@ -776,7 +794,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Терминология.md",
+                "file": "Advanced HTML & CSS/SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -810,8 +828,8 @@
   },
   "active": "01f6fa3aeeaf2651",
   "lastOpenFiles": [
-    "Advanced HTML & CSS/SVG.md",
     "Advanced HTML & CSS/Терминология.md",
+    "Advanced HTML & CSS/SVG.md",
     "Internet/HTTP.md",
     "Untitled Diagram.svg",
     "Advanced HTML & CSS/Enmet Cheat Sheet.md",
