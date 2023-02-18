@@ -79,20 +79,59 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "cheatsheet-a5",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Storage/cheatsheet-a5.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "wsu-css-cheat-sheet-gdocs",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Storage/wsu-css-cheat-sheet-gdocs.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Positioning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":488},\"to\":{\"line\":25,\"ch\":488}},\"scroll\":18.175786882540155}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positioning.md",
+                "file": "Advanced HTML & CSS/Терминология.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feb4d6d8282653c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/CSS Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Positioning.md",
+                "file": "Advanced HTML & CSS/CSS Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Positioning.md"
+                "file": "Advanced HTML & CSS/CSS Functions.md"
               }
             }
           },
@@ -306,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Positioning.md",
+                "file": "Advanced HTML & CSS/CSS Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,17 +377,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7cefc388799a5239",
+  "active": "4356fe038514e5a7",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Терминология.md",
+    "Storage/cheatsheet-a5.pdf",
+    "Storage/wsu-css-cheat-sheet-gdocs.pdf",
+    "Pasted image 20230218155443.jpg",
+    "Advanced HTML & CSS/Positioning.md",
     "Advanced HTML & CSS/Cheat Sheets.md",
     "Advanced HTML & CSS/Cheat Sheets/CSS Selectors Cheat Sheet.md",
     "Advanced HTML & CSS/Advanced Selectors.md",
     "Advanced HTML & CSS/Cheat Sheets/CSS Properties pt.1.md",
-    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
-    "Untitled Diagram 1.svg",
-    "Advanced HTML & CSS/Tables.md",
-    "Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md",
-    "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md",
-    "Advanced HTML & CSS/SVG.md"
+    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md"
   ]
 }
