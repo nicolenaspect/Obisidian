@@ -1,3 +1,9 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "title": "SVG",
+      "path": "Advanced HTML & CSS/SVG.md"
+    }
+  ]
 }

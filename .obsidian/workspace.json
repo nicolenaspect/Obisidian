@@ -527,9 +527,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01f6fa3aeeaf2651",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SVG",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":126},\"to\":{\"line\":16,\"ch\":126}},\"scroll\":3.2476}"
+                },
+                {
+                  "title": "Терминология",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":33},\"to\":{\"line\":1,\"ch\":33}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/Терминология.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -558,7 +591,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -584,7 +617,7 @@
             }
           },
           {
-            "id": "bf077b9969d1d5ed",
+            "id": "4f5e51c6f5b8765e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -632,7 +665,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/SVG.md",
+                "file": "Advanced HTML & CSS/Терминология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +706,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/SVG.md"
+                "file": "Advanced HTML & CSS/Терминология.md"
               }
             }
           },
@@ -743,7 +776,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/SVG.md",
+                "file": "Advanced HTML & CSS/Терминология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -775,17 +808,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3ccd1b2ff18244e9",
+  "active": "01f6fa3aeeaf2651",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/SVG.md",
+    "Advanced HTML & CSS/Терминология.md",
+    "Internet/HTTP.md",
+    "Untitled Diagram.svg",
     "Advanced HTML & CSS/Enmet Cheat Sheet.md",
     "Advanced HTML & CSS/CSS Cheat Sheet.md",
     "Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md",
     "Knowledge Check/Pt.1.md",
     "Frameworks/Introdution to frameworks.md",
-    "Internet/DNS and Domain Name.md",
-    "Internet/HTTP.md",
-    "Internet/Images And Diagrams/Pasted image 20230203150213.png",
-    "Internet/Browsers In Depth.md",
-    "Pasted image 20230203150142.png"
+    "Internet/DNS and Domain Name.md"
   ]
 }
