@@ -83,8 +83,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Positioning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -191,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Positioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +235,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Positioning.md"
+              }
             }
           },
           {
@@ -299,6 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Positioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,8 +338,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4356fe038514e5a7",
+  "active": "7cefc388799a5239",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Cheat Sheets.md",
     "Advanced HTML & CSS/Cheat Sheets/CSS Selectors Cheat Sheet.md",
     "Advanced HTML & CSS/Advanced Selectors.md",
     "Advanced HTML & CSS/Cheat Sheets/CSS Properties pt.1.md",
@@ -340,7 +349,6 @@
     "Advanced HTML & CSS/Tables.md",
     "Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md",
     "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md",
-    "Advanced HTML & CSS/SVG.md",
-    "Advanced HTML & CSS/Терминология.md"
+    "Advanced HTML & CSS/SVG.md"
   ]
 }
