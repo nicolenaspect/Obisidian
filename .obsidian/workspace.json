@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1de6b50383c49b89",
+        "id": "2df938493679793a",
         "type": "tabs",
         "children": [
           {
-            "id": "c81260ebf65a4afc",
+            "id": "39b80e6bb543e5c7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,149 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The internet, explained",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":126},\"to\":{\"line\":88,\"ch\":126}},\"scroll\":78.87144653714546}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pasted image 20230131215927",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230131215927.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Translator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":43},\"to\":{\"line\":15,\"ch\":43}}}"
-                },
-                {
-                  "title": "Терминология",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0.18818499020806254}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The internet, explained",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":635},\"to\":{\"line\":94,\"ch\":635}},\"scroll\":73.32986523789728}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet/HTTP.md",
+                "file": "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afad522d13540c7a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Принципи",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Принципи.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":178},\"to\":{\"line\":5,\"ch\":178}}}"
-                },
-                {
-                  "title": "Map Method",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Map Method.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":45}}}"
-                },
-                {
-                  "title": "Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Basics.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":3},\"to\":{\"line\":84,\"ch\":3}},\"scroll\":68.6261}"
-                },
-                {
-                  "title": "The internet, explained",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":126},\"to\":{\"line\":88,\"ch\":126}},\"scroll\":78.8714}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Translator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Translator.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":43},\"to\":{\"line\":15,\"ch\":43}}}"
-                },
-                {
-                  "title": "Split",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Split and Join.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "http-response-headers",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/http-response-headers.webp\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "http-request-headers",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/http-request-headers.webp\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Split",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Split and Join.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Functional Programming/Split and Join.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "974b9c7ce90f453b",
+            "id": "e6e9676f41f779fb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -172,448 +43,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Functional Programming/every vs some.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a047a5412c576e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150213",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":28},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":71.31043489123778}"
-                },
-                {
-                  "title": "Pasted image 20230203150213",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150142",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150213",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150142",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150213",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150142",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230203150142.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pasted image 20230203150213",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Internet/Images And Diagrams/Pasted image 20230203150213.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":28},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":69.72099563866044}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The internet, explained",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/The internet, explained.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":30},\"to\":{\"line\":81,\"ch\":30}},\"scroll\":74.36406008402507}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":57.92556893300648}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":74},\"to\":{\"line\":37,\"ch\":74}},\"scroll\":31.1349}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":0}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":6},\"to\":{\"line\":37,\"ch\":6}},\"scroll\":31.1389}"
-                },
-                {
-                  "title": "HTTP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/HTTP.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":613},\"to\":{\"line\":70,\"ch\":613}},\"scroll\":0}"
-                },
-                {
-                  "title": "Browsers In Depth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Internet/Browsers In Depth.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":63},\"to\":{\"line\":38,\"ch\":63}},\"scroll\":31.13892697284471}"
-                },
-                {
-                  "title": "Constructors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Objects/Constructors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":406,\"ch\":0},\"to\":{\"line\":406,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Split and Join",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Split and Join.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":75},\"to\":{\"line\":13,\"ch\":75}},\"scroll\":9.428817741403677}"
-                },
-                {
-                  "title": "concat",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/concat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":72},\"to\":{\"line\":19,\"ch\":72}},\"scroll\":3.7455775095324677}"
-                },
-                {
-                  "title": "Currying and Partial Application",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Currying and Partial Application.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Basics.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":3},\"to\":{\"line\":84,\"ch\":3}},\"scroll\":66.8438}"
-                },
-                {
-                  "title": "Reduce Method",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Reduce Method.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Slice vs Splice",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Slice vs Splice.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Currying and Partial Application",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JavaScript/Functional Programming/Currying and Partial Application.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":10.608682788747926}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "762011e5b86e2d9d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet/HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba4a2ba798d6f629",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet/DNS and Domain Name.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d22201ad53a80f63",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Check/Pt.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf5c86223be6cf3b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Enmet Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dfa2d61442d5f33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Enmet Cheat Sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Enmet Cheat Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7098591764208296}"
-                },
-                {
-                  "title": "CSS Cheat Sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/CSS Cheat Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":34},\"to\":{\"line\":0,\"ch\":34}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Check/Pt.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d988a5d6b09d516",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "CSS Cheat Sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/CSS Cheat Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pt.1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Enmet Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ccd1b2ff18244e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/SVG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f6fa3aeeaf2651",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "CSS Cheat Sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/CSS Cheat Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "SVG",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":117},\"to\":{\"line\":42,\"ch\":117}},\"scroll\":32.634166876475014}"
-                },
-                {
-                  "title": "Терминология",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":57},\"to\":{\"line\":2,\"ch\":57}}}"
-                },
-                {
-                  "title": "SVG",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":157},\"to\":{\"line\":16,\"ch\":157}},\"scroll\":5.552083094914754}"
-                },
-                {
-                  "title": "Терминология",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":57},\"to\":{\"line\":2,\"ch\":57}}}"
-                },
-                {
-                  "title": "SVG",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":126},\"to\":{\"line\":16,\"ch\":126}},\"scroll\":3.2476}"
-                },
-                {
-                  "title": "Терминология",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Терминология.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":33},\"to\":{\"line\":1,\"ch\":33}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bc9bb4718dcd91f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Tables.md",
+                "file": "Advanced HTML & CSS/CSS Properties pt.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -668,7 +105,7 @@
             }
           },
           {
-            "id": "4f5e51c6f5b8765e",
+            "id": "4356fe038514e5a7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -716,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Tables.md",
+                "file": "Advanced HTML & CSS/CSS Properties pt.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -757,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Tables.md"
+                "file": "Advanced HTML & CSS/CSS Properties pt.1.md"
               }
             }
           },
@@ -827,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Tables.md",
+                "file": "Advanced HTML & CSS/CSS Properties pt.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -859,17 +296,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4f5e51c6f5b8765e",
+  "active": "e6e9676f41f779fb",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
+    "Untitled Diagram 1.svg",
+    "Advanced HTML & CSS/Tables.md",
     "Advanced HTML & CSS/Knowledge Check HTMLCSS/Pt.1.md",
     "Advanced HTML & CSS/CSS Cheat Sheet.md",
     "Advanced HTML & CSS/SVG.md",
     "Advanced HTML & CSS/Терминология.md",
     "Internet/HTTP.md",
     "Untitled Diagram.svg",
-    "Advanced HTML & CSS/Enmet Cheat Sheet.md",
-    "Knowledge Check/Pt.1.md",
-    "Frameworks/Introdution to frameworks.md",
-    "Internet/DNS and Domain Name.md"
+    "Advanced HTML & CSS/Enmet Cheat Sheet.md"
   ]
 }
