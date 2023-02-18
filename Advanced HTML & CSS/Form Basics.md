@@ -1,5 +1,10 @@
 
 ## The Form Element
 
-The form element is a container element like the div element we learned earlier in the curriculum. The form element wraps all of the inputs a user will interact with on a form.
+Контейнер елемент, също като `div`, Елементът  обхваща всички `входове(inputs)`, с които потребителят ще взаимодейства във формата.
 
+Приема две много важни свойства: 
+- action - взима URL която казва на формата къде трябва да изпрати данните, които да се обработят. 
+- method - казва на браузъра, кой `HTTP Request method` да използва (GET/POST).
+
+Използваме GET когато искаме да извлечем нещо от сървъра. Например, гугъл използва `GET Request` когато търсим тъй като  
