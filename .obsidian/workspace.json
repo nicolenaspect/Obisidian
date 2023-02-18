@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39b80e6bb543e5c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6e9676f41f779fb",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -49,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
