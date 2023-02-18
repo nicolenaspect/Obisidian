@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2df938493679793a",
+        "id": "218567601fa138fa",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e9676f41f779fb",
+            "id": "7b753288a1e52ad2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,58 +20,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Properties pt.1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "4af3067eca517182",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Advanced Selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bdf78072fef9ab7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Selectors Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cefc388799a5239",
+            "id": "c355944b97a2d551",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -81,36 +35,36 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "cheatsheet-a5",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Storage/cheatsheet-a5.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "wsu-css-cheat-sheet-gdocs",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Storage/wsu-css-cheat-sheet-gdocs.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Positioning",
+                  "title": "Untitled",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Positioning.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":488},\"to\":{\"line\":25,\"ch\":488}},\"scroll\":18.175786882540155}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/JavaScript.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Super usefull websites",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super usefull websites.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/JavaScript.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced HTML & CSS/Терминология.md",
+                "file": "Super Cool Websites/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "feb4d6d8282653c8",
+            "id": "25e611c59d922cd6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -124,14 +78,71 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced HTML & CSS/CSS Functions.md",
+                "file": "Super Cool Websites/CSS and HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0a2f806b17bb76e",
+            "id": "2cce3d17dac4eb75",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "JavaScript",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/JavaScript.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Typography.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "CSS and HTML",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Typography.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "CSS and HTML",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Typography.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Super Cool Websites/Typography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "491b5e747c802e19",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -145,14 +156,83 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced HTML & CSS/Custom Properties.md",
+                "file": "Super Cool Websites/UX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92573b027f20ce54",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Super Cool Websites/UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a15b7514be86847",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Icons And Stuff",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Icons And Stuff.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Super Cool Websites/CSS and HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "812d737fbfd6f6ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/Frameworks And Preprocessors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Custom Properties.md",
+                "file": "Advanced HTML & CSS/Frameworks And Preprocessors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Custom Properties.md"
+                "file": "Advanced HTML & CSS/Frameworks And Preprocessors.md"
               }
             }
           },
@@ -366,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Custom Properties.md",
+                "file": "Advanced HTML & CSS/Frameworks And Preprocessors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,17 +478,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4356fe038514e5a7",
+  "active": "812d737fbfd6f6ba",
   "lastOpenFiles": [
+    "Super Cool Websites/CSS and HTML.md",
+    "Super Cool Websites/Icons And Stuff.md",
+    "Super Cool Websites/UI.md",
+    "Super Cool Websites/UX.md",
+    "Super Cool Websites/Typography.md",
+    "Super Cool Websites/JavaScript.md",
+    "Super usefull websites.md",
     "Advanced HTML & CSS/CSS Functions.md",
-    "Advanced HTML & CSS/Терминология.md",
-    "Storage/cheatsheet-a5.pdf",
-    "Storage/wsu-css-cheat-sheet-gdocs.pdf",
-    "Pasted image 20230218155443.jpg",
-    "Advanced HTML & CSS/Positioning.md",
-    "Advanced HTML & CSS/Cheat Sheets.md",
-    "Advanced HTML & CSS/Cheat Sheets/CSS Selectors Cheat Sheet.md",
-    "Advanced HTML & CSS/Advanced Selectors.md",
-    "Advanced HTML & CSS/Cheat Sheets/CSS Properties pt.1.md"
+    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
+    "Internet/Browsers In Depth.md"
   ]
 }
