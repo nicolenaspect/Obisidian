@@ -144,3 +144,5 @@ Wouldn't it be great if the code you received in the SMS message was suggested b
 
 - ! SMS isn't the most secure method of authentication by itself, because phone numbers can be recycled and hijacked. Consider using other two-factor authentication methods or multifactor authentication. Learn more about [multifactor authentication](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html).
 
+
+
