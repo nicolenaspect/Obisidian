@@ -101,4 +101,46 @@ Learn more about other ways to work with [international address fields](https:/
 
 - Require an additional authentication step, for example, re-entering the current password, to view or change personal information on your site. Find out more: [Web Application Privacy Best Practices](https://www.w3.org/TR/app-privacy-bp/).
 
-- Validate the data on the   
+-  Validate the data [on the backend](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) before saving the data in your database. This ensures that no invalid data is saved in your database.  Validation helps to ensure that the data format is valid, but you should still not trust data entered by users. How can you safely output the data? To prevent [Cross Site Scripting](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) (XSS), and ensure all data is safe to include in HTML, you must sanitize data before output. Learn more about [sanitizing data before output](https://benhoyt.com/writings/dont-sanitize-do-escape/) and, where possible, use the [Sanitizer API](https://web.dev/sanitizer/).
+
+- Ensure all submissions come from real people 
+1. The first option is to use a service such as [reCAPTCHA](https://www.google.com/recaptcha/about/), to distinguish between real people and bots. This requires you to include a JavaScript snippet on your page, and add extra attributes to your **Submit** button. reCAPTCHA performs various checks to find out if you are a human. For example, it may ask you to identify images. Automated software, such as a bot, cannot accomplish these challenges and can't submit the form. Always make sure your spam protections are accessible. Try them out by using a screen reader, and by only using your keyboard. The best spam protection is useless if it makes the form unusable for real people.
+2. Another option is to use a so-called 'honeypot': a visually hidden form field. Humans won't see a honeypot field, but bots will fill it in. On the backend, your processing script can check if the field was completed. If it was, the submission was probably from a bot, and you can ignore it.
+3. There are also services like [Akismet](https://akismet.com/), which can help you with spam protection. The Akismet filter works by combining information about spam captured on all participating sites, and then using those spam rules to block future spam. Akismet is transparent to the user, and catches most spam.
+
+## Autofill
+
+
+```html
+<label for="name">Name</label><input name="name" id="name">
+```
+
+If you submit this form field, browsers store the value (the data you entered) along with the value of the `name` attribute (name). Some browsers also look at the `id` attribute when storing and filling in data.
+
+Say, weeks later, you fill out another form on another website. This site also contains a form field with `name="name"`. Your browser can now offer autofill, because a value for name is already stored.
+
+- @ Use the [`:autofill`](https://developer.mozilla.org/docs/Web/CSS/:autofill) CSS pseudo-class to style form controls that the browser has autofilled. Use `:autofill` and the prefixed version `:-webkit-autofill` for best browser compatibility.
+
+Autofill is especially useful in forms you regularly use, such as sign-up and sign-in, payment, checkout, and forms where you have to enter your name or address.
+
+Not every address form has the same fields, and the order of fields also varies. Using the correct values for `autocomplete` ensures that the browser fills in the correct values for a form. There are values for `country`, `postal-code`, and [many more](https://developer.mozilla.org/docs/Web/HTML/Attributes/autocomplete#values).
+
+- @ You can define multiple values separated by a space for `autocomplete`. Say, you have a form with a shipping address and another form for a billing address. To tell the browser which is the postal code for the billing address, you can use `autocomplete="billing postal-code"`. For the shipping address, use `shipping` as the first value.
+
+
+Many people aren't good at remembering passwords. The [most common password](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords) is '123456', followed by other easy-to-remember combinations. How can you use secure and unique passwords without remembering them all? 
+
+Browsers have built-in passwords managers to generate, save, and fill in passwords for you. Let's see how you can help browsers with autofilling emails and managing passwords.
+
+You can use `autocomplete="email"` for an email field, so users get the autofill option for an email address.
+
+As this is a sign-up form, users shouldn't get the option to fill in previously used passwords. You can use `autocomplete="new-password"` to ensure browsers offer the option to generate a new password.
+
+- @ To ensure a secure sign-up form it may be better to use a [third-party identity provider](https://web.dev/sign-up-form-best-practices/#federated-login), instead of building your own [authentication](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) system.
+
+On the sign-in form, you can use `autocomplete="current-password"` to tell browsers to offer the option to fill in previously saved passwords for this website.
+
+Wouldn't it be great if the code you received in the SMS message was suggested by the on-screen keyboard, and you could directly select it to fill in the value? On Safari 14 or later, you can use [`autocomplete="one-time-code"`](https://developer.apple.com/documentation/security/password_autofill/enabling_password_autofill_on_an_html_input_element) to achieve this. On Chrome on Android, you can use the [WebOTP API](https://web.dev/web-otp) to achieve this with JavaScript.
+
+- ! SMS isn't the most secure method of authentication by itself, because phone numbers can be recycled and hijacked. Consider using other two-factor authentication methods or multifactor authentication. Learn more about [multifactor authentication](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html).
+
