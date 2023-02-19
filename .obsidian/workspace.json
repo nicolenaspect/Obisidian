@@ -401,6 +401,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Form UX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form UX.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":288},\"to\":{\"line\":25,\"ch\":288}},\"scroll\":19.073811848958332}"
+                },
+                {
                   "title": "Form Basics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Basics.md\",\"mode\":\"source\",\"source\":false}}",
@@ -415,6 +421,138 @@
               ]
             },
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219145646.jpg"
+              }
+            }
+          },
+          {
+            "id": "2872054f02fe1858",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219145720.jpg"
+              }
+            }
+          },
+          {
+            "id": "73fa18adc970cf93",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219145724.jpg"
+              }
+            }
+          },
+          {
+            "id": "09efd394692c0246",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230219145646",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Storage/Pasted image 20230219145646.jpg\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219150107.jpg"
+              }
+            }
+          },
+          {
+            "id": "733b45eea6c9eea9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219150019.jpg"
+              }
+            }
+          },
+          {
+            "id": "0503447da7e26fd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Storage/Pasted image 20230219150004.jpg"
+              }
+            }
+          },
+          {
+            "id": "20654ed82c94d2f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Form Basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":69.34038721742455}"
+                },
+                {
+                  "title": "Pasted image 20230219145941",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Storage/Pasted image 20230219145941.jpg\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Advanced HTML & CSS/Forms/Form UX.md",
@@ -424,7 +562,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -670,17 +808,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0fc7f514a3b1fe62",
+  "active": "20654ed82c94d2f6",
   "lastOpenFiles": [
     "Advanced HTML & CSS/Forms/Form Basics.md",
-    "Super Cool Websites/Articles.md",
-    "Super Cool Websites/CSS and HTML.md",
-    "Super Cool Websites/UX.md",
-    "Advanced HTML & CSS/Forms/Form UX.md",
-    "Advanced HTML & CSS/Forms/Form Validation.md",
-    "Advanced HTML & CSS/Forms/Form Advanced.md",
-    "Advanced HTML & CSS/Positioning.md",
-    "Advanced HTML & CSS/Frameworks And Preprocessors.md",
-    "Advanced HTML & CSS/Tables.md"
+    "Storage/Pasted image 20230219145941.jpg",
+    "Storage/Pasted image 20230219150004.jpg",
+    "Storage/Pasted image 20230219150019.jpg",
+    "Storage/Pasted image 20230219150107.jpg",
+    "Storage/Pasted image 20230219145646.jpg",
+    "Storage/Pasted image 20230219145732.jpg",
+    "Storage/Pasted image 20230219145724.jpg",
+    "Storage/Pasted image 20230219145720.jpg",
+    "Advanced HTML & CSS/Forms/Form UX.md"
   ]
 }
