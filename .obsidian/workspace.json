@@ -348,6 +348,69 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "UX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UX.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "CSS and HTML",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "UX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UX.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "CSS and HTML",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Form UX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form UX.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Super Cool Websites/CSS and HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fc7f514a3b1fe62",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Form Basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Basics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":69.12975824754778}"
+                },
+                {
+                  "title": "Articles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Articles.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":21},\"to\":{\"line\":14,\"ch\":21}},\"scroll\":0.625}"
                 }
               ]
             },
@@ -361,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -607,17 +670,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1785080895cf2f46",
+  "active": "0fc7f514a3b1fe62",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Forms/Form Basics.md",
+    "Super Cool Websites/Articles.md",
+    "Super Cool Websites/CSS and HTML.md",
+    "Super Cool Websites/UX.md",
+    "Advanced HTML & CSS/Forms/Form UX.md",
     "Advanced HTML & CSS/Forms/Form Validation.md",
     "Advanced HTML & CSS/Forms/Form Advanced.md",
-    "Advanced HTML & CSS/Forms/Form Basics.md",
     "Advanced HTML & CSS/Positioning.md",
     "Advanced HTML & CSS/Frameworks And Preprocessors.md",
-    "Advanced HTML & CSS/Tables.md",
-    "Super Cool Websites/Perfoming.md",
-    "Super Cool Websites/CSS and HTML.md",
-    "Super Cool Websites/Icons And Stuff.md",
-    "Super Cool Websites/UI.md"
+    "Advanced HTML & CSS/Tables.md"
   ]
 }
