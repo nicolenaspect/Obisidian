@@ -251,9 +251,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f59f32616c1740cf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perfoming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -356,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Form Basics.md",
+                "file": "Perfoming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Form Basics.md"
+                "file": "Perfoming.md"
               }
             }
           },
@@ -467,7 +488,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Form Basics.md",
+                "file": "Perfoming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,8 +520,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4356fe038514e5a7",
+  "active": "f59f32616c1740cf",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Form Basics.md",
     "Advanced HTML & CSS/Frameworks And Preprocessors.md",
     "Super Cool Websites/CSS and HTML.md",
     "Super Cool Websites/Icons And Stuff.md",
@@ -509,7 +531,6 @@
     "Super Cool Websites/Typography.md",
     "Super Cool Websites/JavaScript.md",
     "Super usefull websites.md",
-    "Advanced HTML & CSS/CSS Functions.md",
-    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md"
+    "Advanced HTML & CSS/CSS Functions.md"
   ]
 }
