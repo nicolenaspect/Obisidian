@@ -23,4 +23,4 @@
 - ! Aggressive mode: Triggered when the user presses a key.  Poor UX, because the user might not have finished inputting his data but the error is already thrown.
 - ! Lazy mode: Triggered when the user leaves the input. Looks better, but it triggered ONLY when the user leaves the input. If he made a mistake, and then returned back to the input and fixed it, it'll still be red until he leaves the input.
 - ! Passive mode: Triggered when the form is submitted. Poor UX, especially for big forms. Imagine the user filled 10 inputs with incorrect data and you throw 10 errors at once...
-- $ Eager mode: a combination of aggressive and lazy. It first validates when the user leaves the input, then if the input is invalid it will behave aggressively until the input is valid again and it will go back to being lazy. - https://twitter.com/vponamariov/status/1380182270808633345
+- $ Eager mode: a combination of aggressive and lazy. It first validates when the user leaves the input, then if the input is invalid it will behave aggressively until the input is valid again and it will go back to being lazy. - https://twitter.com/vponamariov/status/1380182270808633345 
