@@ -539,6 +539,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Typography.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Perfoming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Perfoming.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Form UX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form UX.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":289},\"to\":{\"line\":25,\"ch\":289}},\"scroll\":18.794120222573298}"
+                },
+                {
                   "title": "Form Basics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Basics.md\",\"mode\":\"source\",\"source\":false}}",
@@ -555,7 +573,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced HTML & CSS/Forms/Form UX.md",
+                "file": "Super Cool Websites/Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -665,7 +683,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Forms/Form UX.md",
+                "file": "Super Cool Websites/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -706,7 +724,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Forms/Form UX.md"
+                "file": "Super Cool Websites/Articles.md"
               }
             }
           },
@@ -776,7 +794,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Forms/Form UX.md",
+                "file": "Super Cool Websites/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -808,17 +826,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "20654ed82c94d2f6",
+  "active": "4356fe038514e5a7",
   "lastOpenFiles": [
+    "Super Cool Websites/Typography.md",
+    "Super Cool Websites/Perfoming.md",
+    "Advanced HTML & CSS/Forms/Form UX.md",
     "Advanced HTML & CSS/Forms/Form Basics.md",
     "Storage/Pasted image 20230219145941.jpg",
     "Storage/Pasted image 20230219150004.jpg",
     "Storage/Pasted image 20230219150019.jpg",
     "Storage/Pasted image 20230219150107.jpg",
     "Storage/Pasted image 20230219145646.jpg",
-    "Storage/Pasted image 20230219145732.jpg",
-    "Storage/Pasted image 20230219145724.jpg",
-    "Storage/Pasted image 20230219145720.jpg",
-    "Advanced HTML & CSS/Forms/Form UX.md"
+    "Storage/Pasted image 20230219145732.jpg"
   ]
 }
