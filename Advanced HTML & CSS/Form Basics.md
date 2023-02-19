@@ -244,4 +244,67 @@ Button types:
 ```
 
 
-==Важно е да се запомни, че
+==Важно е да се запомни, че бутон във формата с `type` атрибут `submit` винаги ще опита да направи нов `request` и да върне информацията на сървъра, така че бутони използвани извън формата за различни цели освен `submit`, `type` трябва да бъде  посочен за да се избегнат нежелани ефекти при изпращане на формуляр.==
+
+
+## Fieldset Element
+
+Контейнер, който ни позволява да групираме свързани формуляри в един логически модул
+
+```html
+<fieldset>
+  <label for="first_name">First Name</label>
+  <input type="text" id="first_name" name="first_name">
+
+  <label for="last_name">Last Name</label>
+  <input type="text" id="last_name" name="last_name">
+</fieldset>
+```
+
+### Legend 
+
+Heading за fieldset-а
+
+```html
+<fieldset>
+  <legend>Contact Details</legend>
+
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+
+  <label for="phone_number">Phone Number:</label>
+  <input type="tel" id="phone_number" name="phone_number">
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email">
+</fieldset>
+```
+
+Често използван е за групиране на радио бутони 
+
+```html
+<fieldset>
+  <legend>What would you like to drink?</legend>
+
+  <div>
+    <input type="radio" name="drink" id="coffee" value="coffee">
+    <label for="coffee">Coffee</label>
+  </div>
+
+  <div>
+    <input type="radio" name="drink" id="tea" value="tea">
+    <label for="tea">Tea</label>
+  </div>
+
+  <div>
+    <input type="radio" name="drink" id="soda" value="soda">
+    <label for="soda">Soda</label>
+  </div>
+
+</fieldset>
+```
+
+## Default Browser Styles
+
+Контроли на формуляра, като текст, мейл, парола и текстови полета са лесни за стилизиране, като всеки друг HTML елемент, повечето CSS свойства могат да бъдат използвани
+
