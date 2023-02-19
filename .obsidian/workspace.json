@@ -261,20 +261,65 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Positioning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Frameworks And Preprocessors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Frameworks And Preprocessors.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tables",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Tables.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Perfoming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Perfoming.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perfoming.md",
+                "file": "Advanced HTML & CSS/Form Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b430b79e7543b0a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/Form Advanced.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -377,7 +422,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perfoming.md",
+                "file": "Advanced HTML & CSS/Form Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -418,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perfoming.md"
+                "file": "Advanced HTML & CSS/Form Advanced.md"
               }
             }
           },
@@ -488,7 +533,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perfoming.md",
+                "file": "Advanced HTML & CSS/Form Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -520,17 +565,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f59f32616c1740cf",
+  "active": "4356fe038514e5a7",
   "lastOpenFiles": [
     "Advanced HTML & CSS/Form Basics.md",
+    "Advanced HTML & CSS/Positioning.md",
     "Advanced HTML & CSS/Frameworks And Preprocessors.md",
+    "Advanced HTML & CSS/Tables.md",
+    "Super Cool Websites/Perfoming.md",
     "Super Cool Websites/CSS and HTML.md",
     "Super Cool Websites/Icons And Stuff.md",
     "Super Cool Websites/UI.md",
     "Super Cool Websites/UX.md",
-    "Super Cool Websites/Typography.md",
-    "Super Cool Websites/JavaScript.md",
-    "Super usefull websites.md",
-    "Advanced HTML & CSS/CSS Functions.md"
+    "Super Cool Websites/Typography.md"
   ]
 }
