@@ -11,7 +11,7 @@ Create a sign-up form for a health and fitness app that helps users track their 
 2.  Email: This field should ask for the user's email address.
     
 3.  Password: This field should ask the user to create a password that meets specific criteria (e.g., must contain at least one uppercase letter and one number).
-    
+
 4.  Gender: This field should ask the user to select their gender from a dropdown menu.
     
 5.  Age: This field should ask the user to enter their age.
