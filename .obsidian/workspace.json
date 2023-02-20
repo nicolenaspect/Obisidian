@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1785080895cf2f46",
+            "id": "6443c88bda353116",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,50 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "UX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UX.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS and HTML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "UX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UX.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS and HTML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Form UX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form UX.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Super Cool Websites/CSS and HTML.md",
+                "file": "Assets/CSS Reset.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35a4a26eb97da49c",
+            "id": "a2201a07f33efdb7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,19 +37,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Softwares/Design.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Super Cool Websites/UI.md",
+                "file": "Projects Notes/Sign Up Form Odin.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Super Cool Websites/UI.md",
+                "file": "Projects Notes/Sign Up Form Odin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Super Cool Websites/UI.md"
+                "file": "Projects Notes/Sign Up Form Odin.md"
               }
             }
           },
@@ -300,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Super Cool Websites/UI.md",
+                "file": "Projects Notes/Sign Up Form Odin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,8 +296,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "35a4a26eb97da49c",
+  "active": "a2201a07f33efdb7",
   "lastOpenFiles": [
+    "Assets/CSS Reset.md",
+    "Super Cool Websites/UI.md",
     "Super Cool Softwares/Design.md",
     "Super Cool Websites/CSS and HTML.md",
     "Untitled Diagram.svg",
@@ -341,8 +307,6 @@
     "Advanced HTML & CSS/Forms/Form UX.md",
     "Super Cool Websites/Typography.md",
     "Super Cool Websites/Perfoming.md",
-    "Advanced HTML & CSS/Forms/Form Basics.md",
-    "Storage/Pasted image 20230219145941.jpg",
-    "Storage/Pasted image 20230219150004.jpg"
+    "Advanced HTML & CSS/Forms/Form Basics.md"
   ]
 }
