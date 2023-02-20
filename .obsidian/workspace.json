@@ -67,13 +67,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Softwares/Design.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Super Cool Softwares/Design.md",
+                "file": "Super Cool Websites/UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Super Cool Softwares/Design.md",
+                "file": "Super Cool Websites/UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Super Cool Softwares/Design.md"
+                "file": "Super Cool Websites/UI.md"
               }
             }
           },
@@ -294,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Super Cool Softwares/Design.md",
+                "file": "Super Cool Websites/UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,6 +334,7 @@
   },
   "active": "35a4a26eb97da49c",
   "lastOpenFiles": [
+    "Super Cool Softwares/Design.md",
     "Super Cool Websites/CSS and HTML.md",
     "Untitled Diagram.svg",
     "Super Cool Websites/Articles.md",
@@ -336,7 +343,6 @@
     "Super Cool Websites/Perfoming.md",
     "Advanced HTML & CSS/Forms/Form Basics.md",
     "Storage/Pasted image 20230219145941.jpg",
-    "Storage/Pasted image 20230219150004.jpg",
-    "Storage/Pasted image 20230219150019.jpg"
+    "Storage/Pasted image 20230219150004.jpg"
   ]
 }
