@@ -39,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Sign Up Form Odin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects Notes/Sign Up Form Odin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":1.7241071519397555}"
+                },
+                {
                   "title": "CSS and HTML",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
@@ -85,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects Notes/Sign Up Form Odin.md",
+                "file": "Super Cool Websites/CSS and HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects Notes/Sign Up Form Odin.md",
+                "file": "Super Cool Websites/CSS and HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects Notes/Sign Up Form Odin.md"
+                "file": "Super Cool Websites/CSS and HTML.md"
               }
             }
           },
@@ -306,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects Notes/Sign Up Form Odin.md",
+                "file": "Super Cool Websites/CSS and HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,11 +346,11 @@
   },
   "active": "a2201a07f33efdb7",
   "lastOpenFiles": [
+    "Projects Notes/Sign Up Form Odin.md",
     "Super Cool Websites/CSS and HTML.md",
     "Super Cool Websites/Articles.md",
     "Super Cool Websites/UI.md",
     "Super Cool Websites/UX.md",
-    "Projects Notes/Sign Up Form Odin.md",
     "Assets/CSS Reset.md",
     "Super Cool Softwares/Design.md",
     "Untitled Diagram.svg",
