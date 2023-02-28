@@ -37,54 +37,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Sign Up Form Odin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects Notes/Sign Up Form Odin.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":1.7241071519397555}"
-                },
-                {
-                  "title": "CSS and HTML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Articles",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/Articles.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS and HTML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "UI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UI.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":1.331}"
-                },
-                {
-                  "title": "UX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UX.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "UI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/UI.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":1.3309827241379484}"
-                },
-                {
-                  "title": "Sign Up Form Odin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects Notes/Sign Up Form Odin.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":12.984693809144565}"
                 }
               ]
             },
@@ -340,8 +292,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a2201a07f33efdb7",
