@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md",
+                "file": "Assets/CSS Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md"
+                "file": "Assets/CSS Reset.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md",
+                "file": "Assets/CSS Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +385,8 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "1de6f7fe440f52c3",
