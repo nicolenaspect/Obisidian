@@ -141,9 +141,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "983afaf03c06c864",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/CSS Reset.md",
+                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/CSS Reset.md"
+                "file": "Advanced HTML & CSS/Grid/Grid Basics.md"
               }
             }
           },
@@ -357,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/CSS Reset.md",
+                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,6 +412,10 @@
   },
   "active": "1de6f7fe440f52c3",
   "lastOpenFiles": [
+    "Advanced HTML & CSS/Grid",
+    "Assets/CSS Reset.md",
+    "Advanced HTML & CSS/Grid/Grid Basics.md",
+    "Advanced HTML & CSS/Grid",
     "Advanced HTML & CSS/Forms/Form Advanced.md",
     "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md",
     "Advanced HTML & CSS/Responsivnes",
@@ -408,7 +433,6 @@
     "Super Cool Websites/Articles.md",
     "Super Cool Websites/UI.md",
     "Super Cool Websites/UX.md",
-    "Assets/CSS Reset.md",
     "Super Cool Softwares/Design.md",
     "Untitled Diagram.svg",
     "Super Cool Websites/Typography.md"
