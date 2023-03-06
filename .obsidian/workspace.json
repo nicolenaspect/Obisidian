@@ -16,12 +16,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "terms-grid-area",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Storage/terms-grid-area.svg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "align-items-start 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Storage/align-items-start 1.svg\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,6 +56,15 @@
           {
             "id": "b88141c89f4e93f3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -50,6 +75,15 @@
           {
             "id": "adff853cbf5d6358",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -65,6 +99,15 @@
           {
             "id": "f994ee1917340557",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -87,9 +130,19 @@
           {
             "id": "1622e09e2fd0d0c5",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +156,19 @@
           {
             "id": "1312d210364a48f6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +177,15 @@
           {
             "id": "8e742d0c7bb674c7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -125,12 +197,49 @@
           {
             "id": "69c0a60eecb7573c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Advanced HTML & CSS/Cheat Sheets/CSS Cheat Sheet.md"
+              }
+            }
+          },
+          {
+            "id": "bee7a6cbafbb09cc",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a0100210c4c2f4a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,17 +256,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ddae058231003650",
+  "active": "9a0100210c4c2f4a",
   "lastOpenFiles": [
+    "Storage/terms-grid-area.svg",
+    "Storage/align-items-start 1.svg",
     "xNQUG9emGd8FzuOpumP7.avif",
-    "terms-grid-area.svg",
-    "justify-items-start.svg",
+    "Storage/justify-items-start.svg",
     "bPlYx9xODQH4X1KuUNpc.avif",
-    "align-items-start.svg",
-    "align-items-start 1.svg",
+    "Storage/align-items-start.svg",
     "Super Cool Websites/UX.md",
     "Super Cool Websites/UI.md",
     "Super Cool Websites/Typography.md",
@@ -183,7 +293,6 @@
     "PgPX6ZMyKSwF6kB8zIhB.avif",
     "PgPX6ZMyKSwF6kB8zIhB 1.avif",
     "Knowledge Check/Pt.1.md",
-    "Knowledge Check",
     "JavaScript/Objects/Constructors.md",
     "JavaScript/Functional Programming/Принципи.md",
     "JavaScript/Functional Programming/Split and Join.md",
