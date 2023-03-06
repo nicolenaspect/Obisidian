@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f667ce2dc2efe0b1",
+    "id": "d63b7da7eaf0238d",
     "type": "split",
     "children": [
       {
-        "id": "218567601fa138fa",
+        "id": "94559ef128f98367",
         "type": "tabs",
         "children": [
           {
-            "id": "6443c88bda353116",
+            "id": "ddae058231003650",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,180 +20,41 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/CSS Reset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2201a07f33efdb7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Form Validation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Validation.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":107.84285699753534}"
-                },
-                {
-                  "title": "Form UX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form UX.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":71},\"to\":{\"line\":16,\"ch\":35}},\"scroll\":18.794459677391952}"
-                },
-                {
-                  "title": "Form Advanced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Advanced.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":125.13074623326156}"
-                },
-                {
-                  "title": "Form Basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Forms/Form Basics.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Truncate String with Ellipsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS Functions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/CSS Functions.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Advanced Selectors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Advanced Selectors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS Functions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/CSS Functions.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Frameworks And Preprocessors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Frameworks And Preprocessors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "SVG",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/SVG.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Tables",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced HTML & CSS/Tables.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS and HTML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Super Cool Websites/CSS and HTML.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Forms/Form Advanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d815baea33be7b56",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983afaf03c06c864",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b92f8cbc2af79f1",
+    "id": "9fc60706d6e3824a",
     "type": "split",
     "children": [
       {
-        "id": "281d71b5990ed718",
+        "id": "e25cdd08ee1b5c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "83a247297d45001c",
+            "id": "b88141c89f4e93f3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adff853cbf5d6358",
+            "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -202,89 +63,57 @@
             }
           },
           {
-            "id": "15da92c398d3a07a",
+            "id": "f994ee1917340557",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "1de6f7fe440f52c3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e6dcb0954fc4b331",
+    "id": "8d4be91e00deb0f6",
     "type": "split",
     "children": [
       {
-        "id": "92ff108aa2a0d540",
+        "id": "0f292e7b01cfe068",
         "type": "tabs",
         "children": [
           {
-            "id": "d61375cc2ea354b2",
+            "id": "1622e09e2fd0d0c5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1312d210364a48f6",
+            "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3eecd288a135ee98",
+            "id": "8e742d0c7bb674c7",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -294,99 +123,11 @@
             }
           },
           {
-            "id": "7782daa7f50da187",
+            "id": "69c0a60eecb7573c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Advanced HTML & CSS/Grid/Grid Basics.md"
-              }
-            }
-          },
-          {
-            "id": "deee0e75fee9485f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
               "state": {}
-            }
-          },
-          {
-            "id": "d933a16f9154763f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8bf9dd7b8e26377",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ddc8e63bd90141b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Advanced HTML & CSS/Grid/Grid Basics.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
@@ -398,50 +139,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "983afaf03c06c864",
+  "active": "ddae058231003650",
   "lastOpenFiles": [
-    "align-items-start 1.svg",
-    "align-items-start.svg",
-    "justify-items-start.svg",
+    "xNQUG9emGd8FzuOpumP7.avif",
     "terms-grid-area.svg",
+    "justify-items-start.svg",
+    "bPlYx9xODQH4X1KuUNpc.avif",
+    "align-items-start.svg",
+    "align-items-start 1.svg",
+    "Super Cool Websites/UX.md",
+    "Super Cool Websites/UI.md",
+    "Super Cool Websites/Typography.md",
+    "Super Cool Websites/Perfoming.md",
+    "Super Cool Websites/JavaScript.md",
+    "Super Cool Websites/Icons And Stuff.md",
+    "Super Cool Websites/CSS and HTML.md",
+    "Super Cool Websites/Articles.md",
+    "Super Cool Websites",
+    "Super Cool Softwares/Design.md",
+    "Super Cool Softwares",
+    "Storage/wsu-css-cheat-sheet-gdocs.pdf",
     "Storage/terms-grid-track.svg",
     "Storage/terms-grid-line.svg",
     "Storage/terms-grid-cell.svg",
-    "Advanced HTML & CSS/Grid",
-    "Assets/CSS Reset.md",
-    "Advanced HTML & CSS/Grid/Grid Basics.md",
-    "Advanced HTML & CSS/Grid",
-    "Advanced HTML & CSS/Forms/Form Advanced.md",
-    "Advanced HTML & CSS/Responsivnes/CSS Breakpoints.md",
-    "Advanced HTML & CSS/Responsivnes",
-    "Advanced HTML & CSS/Forms/Form Validation.md",
-    "Advanced HTML & CSS/Forms/Form UX.md",
-    "Advanced HTML & CSS/Forms/Form Basics.md",
-    "Advanced HTML & CSS/Tips And Tricks/Truncate String with Ellipsis.md",
-    "Advanced HTML & CSS/CSS Functions.md",
-    "Advanced HTML & CSS/Advanced Selectors.md",
-    "Advanced HTML & CSS/Frameworks And Preprocessors.md",
-    "Advanced HTML & CSS/SVG.md",
-    "Advanced HTML & CSS/Tables.md",
-    "Super Cool Websites/CSS and HTML.md",
+    "Storage/solution.webp",
+    "Storage/Pasted image 20230219150107.jpg",
+    "Storage/Pasted image 20230219150019.jpg",
+    "Storage/cheatsheet-a5.pdf",
+    "Storage",
     "Projects Notes/Sign Up Form Odin.md",
-    "Super Cool Websites/Articles.md",
-    "Super Cool Websites/UI.md",
-    "Super Cool Websites/UX.md",
-    "Super Cool Softwares/Design.md",
-    "Untitled Diagram.svg",
-    "Super Cool Websites/Typography.md"
+    "Projects Notes",
+    "PgPX6ZMyKSwF6kB8zIhB.avif",
+    "PgPX6ZMyKSwF6kB8zIhB 1.avif",
+    "Knowledge Check/Pt.1.md",
+    "Knowledge Check",
+    "JavaScript/Objects/Constructors.md",
+    "JavaScript/Functional Programming/Принципи.md",
+    "JavaScript/Functional Programming/Split and Join.md",
+    "JavaScript/Functional Programming/Slice vs Splice.md",
+    "JavaScript/Functional Programming/Reduce Method.md",
+    "JavaScript/Functional Programming/Map Method.md",
+    "JavaScript/Functional Programming/every vs some.md",
+    "JavaScript/Functional Programming/Currying and Partial Application.md",
+    "JavaScript/Functional Programming/concat.md",
+    "JavaScript/Functional Programming/Basics.md",
+    "JavaScript/Терминология.md",
+    "JavaScript/Translator.md",
+    "Internet/The internet, explained.md",
+    "Internet/HTTP.md"
   ]
 }
